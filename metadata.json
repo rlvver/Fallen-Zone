@@ -1,0 +1,5 @@
+{
+  "name": "FallenZone",
+  "description": "A high-fidelity web prototype of a First-Person Survival MMORPG core system. Features complex state management for player stats, inventory with drag-and-drop mechanics, equipment, and a unified game loop.",
+  "requestFramePermissions": []
+}
