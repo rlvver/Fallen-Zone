@@ -14,7 +14,7 @@ import { getFirestore, doc, setDoc, getDoc, collection, getDocs, deleteDoc, onSn
 import { GameContextState, RemotePlayer } from "../types";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDmaKcAjdeGmF1-pVsr9TD26znz9zHTmrw",
+  apiKey: "",
   authDomain: "fallenzone-e0626.firebaseapp.com",
   projectId: "fallenzone-e0626",
   storageBucket: "fallenzone-e0626.firebasestorage.app",
