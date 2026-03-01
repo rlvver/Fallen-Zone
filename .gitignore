@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 /.vs
+/.expo
+package-lock.json
+package.json
+package.json
